@@ -1,6 +1,4 @@
-brouette
 rateau
-eau
 graine
 houe
 labourer
@@ -12,6 +10,13 @@ grange
 evapotranspiration
 photosynthese
 tomate
-carotte
 courgette
 aubergine
+paysan
+fermier
+fourche
+carotte
+vache
+poule
+mouton
+brouette
